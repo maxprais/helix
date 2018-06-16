@@ -1,0 +1,3 @@
+export const IMAGE_ACTION_TYPES = {
+  GET_ALL_IMAGES: 'GET_ALL_IMAGES'
+};
